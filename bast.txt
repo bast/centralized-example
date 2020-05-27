@@ -1,0 +1,6 @@
+sharing a Git option that I use almost always:
+
+$ git commit -v
+
+this way I can write the commit message but at the same
+time I see the diff that I am about to commit.
