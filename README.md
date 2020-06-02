@@ -1,6 +1,8 @@
 
 # Centralized workflow exercise
 
+
+
 In this exercise, we practice collaborative centralized workflow.
 First, we all **clone** (make a local copy) and try to **push** (send
 code to) the main repository.  We'll see a small problem with that,
