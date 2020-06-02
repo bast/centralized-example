@@ -19,6 +19,8 @@ Everyone needs their GitHub account to be added to our central repository.
 2. Instructor adds participants as collaborators to this project.
 
 
+
+
 ## After participants have been added as collaborators
 
 
